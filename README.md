@@ -53,6 +53,7 @@ Handles *model loading and inference*, particularly useful for deploying trained
 ## How to Run
 
 1. Clone the repository:
-   ```bash
- git clone <repo-url>
+    git clone <repo-url>
    cd <repo-name>
+   ```bash
+
