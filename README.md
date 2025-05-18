@@ -54,3 +54,8 @@ Handles *model loading and inference*, particularly useful for deploying trained
 
 1. Clone the repository
 
+### 5. Contributors:
+1. Aryaan Bazaz
+2. Sneha Agarwal
+3. Dhruv Verma
+
