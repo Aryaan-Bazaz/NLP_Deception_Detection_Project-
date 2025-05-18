@@ -52,8 +52,5 @@ Handles *model loading and inference*, particularly useful for deploying trained
 
 ## How to Run
 
-1. Clone the repository:
-    git clone <repo-url>
-   cd <repo-name>
-   ```bash
+1. Clone the repository
 
